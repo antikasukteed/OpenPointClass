@@ -1,5 +1,6 @@
 #include <random>
 #include <filesystem>
+#include <sstream>
 
 #include "point_io.hpp"
 #include "labels.hpp"
